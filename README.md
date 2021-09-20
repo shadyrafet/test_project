@@ -1,7 +1,3 @@
-# test_project
-i learn github now for first time
+#this my first project 
+i will try to learn github to help me in my projects
 
-
-## for first time i use github
-
-### i will try to use it in crating projects
